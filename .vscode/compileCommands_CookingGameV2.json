@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\Source\\CookingGameV2\\CookingGameV2.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\.vscode\\compileCommands_CookingGameV2\\CookingGameV2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\Source\\CookingGameV2\\CookingGameV2.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\.vscode\\compileCommands_CookingGameV2\\CookingGameV2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\Source\\CookingGameV2\\CookingGameV2.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\.vscode\\compileCommands_CookingGameV2\\CookingGameV2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\Source\\CookingGameV2\\FreakCliente.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\.vscode\\compileCommands_CookingGameV2\\CookingGameV2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\Source\\CookingGameV2\\FreakCliente.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\usuario\\Documents\\Unreal Projects\\CookingGameV2\\.vscode\\compileCommands_CookingGameV2\\CookingGameV2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	}
+]
